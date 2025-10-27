@@ -12,3 +12,16 @@ The board design started with simple and must have things. I've created a micro 
 ![Schematic](screenshots/s1.png "Schematic")
 
 **Total time spent: 2h**
+
+# Oct 27th: 
+
+Few changes:
+- Added label for Voltage in
+- Added flash chip
+- Added rp2354b
+
+it took a longer time than nomrally because of reading documentation of rp2345b
+
+![Schematic](screenshots/s2.png "Schematic")
+
+**Total time spent: 3h**
