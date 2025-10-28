@@ -25,3 +25,11 @@ it took a longer time than nomrally because of reading documentation of rp2345b
 ![Schematic](screenshots/s2.png "Schematic")
 
 **Total time spent: 3h**
+
+# Oct 28th: 
+
+I have added crystal oscillator, decoupling capacitors and the core power supply components. Also changed the layout of the mcu
+
+![Schematic](screenshots/s3.png "Schematic")
+
+**Total time spent: 3h**
